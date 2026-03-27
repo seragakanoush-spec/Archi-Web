@@ -1,0 +1,19 @@
+{
+  "agency": "Studio 04",
+  "projects": [
+    {
+      "id": "01",
+      "title": "Red Sea Conceptual Pavilion",
+      "category": "3D Modeling & Rendering",
+      "hook": "Translating fluid dynamics into structural reality.",
+      "imagePath": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2000&auto=format&fit=crop"
+    },
+    {
+      "id": "02",
+      "title": "Urban Grid Revitalization",
+      "category": "2D Plans to 3D Visualization",
+      "hook": "Discovering unseen potential in high-density zones.",
+      "imagePath": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2000&auto=format&fit=crop"
+    }
+  ]
+}
